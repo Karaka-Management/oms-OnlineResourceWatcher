@@ -7,7 +7,6 @@ use phpOMS\Uri\UriFactory;
 $base        = __DIR__ . '/../../../../';
 $newDiffPath = '';
 ?>
-
 <div class="tabview tab-2">
     <div class="box">
         <ul class="tab-links">
